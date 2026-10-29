@@ -1,0 +1,8 @@
+body {
+    width: 512px;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
